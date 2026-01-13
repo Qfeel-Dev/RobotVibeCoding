@@ -1,0 +1,6 @@
+ver.1.0.1 - 2025/01/07
+* Python data type modified
+
+ver.1.0.0 - 2024/02/05
+* First release
+
